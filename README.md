@@ -19,4 +19,9 @@ A playable command-line game that teaches **pandas** by having you solve data pu
 ## Run the game
 ```bash
 python main.py
-
+```
+# Tips for learning
+- Read the prompt and inspect the dataframe preview.
+- If you get stuck, type `hint` when prompted.
+- After each answer, the game shows a reference pandas solution.
+- Try opening the datasets in a notebook and reproduce the solutions yourself.
